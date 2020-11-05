@@ -1,0 +1,5 @@
+D:/Project1/tanks/build/CMakeFiles/tanks.dir
+D:/Project1/tanks/build/CMakeFiles/ALL_BUILD.dir
+D:/Project1/tanks/build/CMakeFiles/ZERO_CHECK.dir
+D:/Project1/tanks/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+D:/Project1/tanks/build/external/glfw/src/CMakeFiles/glfw.dir
