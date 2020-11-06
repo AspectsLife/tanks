@@ -33,8 +33,10 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
+  # Include the install script for each subdirectory.
   include("D:/Project1/tanks/build/external/glfw/cmake_install.cmake")
+  include("D:/Project1/tanks/build/external/glad/cmake_install.cmake")
+
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

@@ -3,3 +3,5 @@ D:/Project1/tanks/build/CMakeFiles/ALL_BUILD.dir
 D:/Project1/tanks/build/CMakeFiles/ZERO_CHECK.dir
 D:/Project1/tanks/build/external/glfw/CMakeFiles/ALL_BUILD.dir
 D:/Project1/tanks/build/external/glfw/src/CMakeFiles/glfw.dir
+D:/Project1/tanks/build/external/glad/CMakeFiles/glad.dir
+D:/Project1/tanks/build/external/glad/CMakeFiles/ALL_BUILD.dir
